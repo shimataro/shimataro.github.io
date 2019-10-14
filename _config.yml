@@ -10,6 +10,9 @@ sns:
 - title: Facebook
   url: https://www.facebook.com/odashima.taro
   img: facebook.svg
+- title: LINE
+  url: https://line.me/ti/p/shimataro777
+  img: line.svg
 - title: GitHub
   url: https://github.com/shimataro
   img: github.svg
