@@ -1,6 +1,5 @@
 ---
 title: Taro ODASHIMA
-description: A full-stack web engineer, and also an amateur magician!
 ---
 ## 略歴
 
