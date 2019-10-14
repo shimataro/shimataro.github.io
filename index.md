@@ -3,7 +3,7 @@ title: Taro ODASHIMA
 ---
 ## 略歴
 
-![Photo]({{site.baseurl}}assets/img/photo.jpg){: style="float: right"}
+![Photo]({{ site.baseurl }}assets/img/photo.jpg){: style="float: right"}
 
 岩手県盛岡市生まれ、兵庫県在住。
 [名古屋工業大学](https://www.nitech.ac.jp/)卒業。
@@ -22,13 +22,6 @@ title: Taro ODASHIMA
 ### ブログ
 
 [欅樹雑記](https://blog.zelkova.cc) - 主に技術系の内容。たまに全く関係ないことも。
-
-### SNS
-
-[![Twitter]({{site.baseurl}}/assets/img/twitter.svg)](https://twitter.com/shimataro999)
-[![Facebook]({{site.baseurl}}/assets/img/facebook.svg)](https://www.facebook.com/odashima.taro)
-[![GitHub]({{site.baseurl}}/assets/img/github.svg)](https://github.com/shimataro)
-[![Qiita]({{site.baseurl}}/assets/img/qiita.svg)](https://qiita.com/shimataro999)
 
 ---
 

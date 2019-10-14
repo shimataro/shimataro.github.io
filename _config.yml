@@ -3,6 +3,20 @@ title: Taro ODASHIMA
 description: A full-stack web engineer, and also an amateur magician!
 lang: ja
 
+sns:
+- title: Twitter
+  url: https://twitter.com/shimataro999
+  img: twitter.svg
+- title: Facebook
+  url: https://www.facebook.com/odashima.taro
+  img: facebook.svg
+- title: GitHub
+  url: https://github.com/shimataro
+  img: github.svg
+- title: Qiita
+  url: https://qiita.com/shimataro999
+  img: qiita.svg
+
 defaults:
 - scope:
     path: "assets/img"
