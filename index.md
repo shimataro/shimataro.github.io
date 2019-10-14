@@ -1,6 +1,6 @@
 ## 略歴
 
-![Photo]({{site.baseurl}}assets/img/photo.jpg)<!-- .element: style="float:right;" -->
+![Photo]({{site.baseurl}}assets/img/photo.jpg){: style="float: right"}
 
 岩手県盛岡市生まれ、兵庫県在住。
 [名古屋工業大学](https://www.nitech.ac.jp/)卒業。
