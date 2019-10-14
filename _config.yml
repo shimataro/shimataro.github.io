@@ -3,6 +3,10 @@ title: Taro ODASHIMA
 description: A full-stack web engineer, and also an amateur magician!
 lang: ja
 
+path:
+  base: /
+  img: /assets/img/
+
 sns:
 - title: Twitter
   url: https://twitter.com/shimataro999
