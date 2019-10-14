@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+title: Taro ODASHIMA
+description: A full-stack web engineer, and also an amateur magician!
+
+defaults:
+- scope:
+    path: "assets/img"
+  value:
+    image: true
+
+show_downloads: false
+github:
+  is_project_page: false

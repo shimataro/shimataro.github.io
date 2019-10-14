@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="32"
+   width="32"
+   version="1.1"
+   viewBox="0 0 32 32"
+   data-name="Logo — FIXED"
+   id="Logo_FIXED">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Twitter_Logo_Blue</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;}.cls-2{fill:#1da1f2;}</style>
+  </defs>
+  <title
+     id="title6">Twitter_Logo_Blue</title>
+  <rect
+     id="rect8"
+     height="32"
+     width="32"
+     class="cls-1"
+     x="0"
+     y="0"
+     style="fill:none;stroke-width:0.08" />
+  <path
+     id="path10"
+     d="m 10.80544,27.37572 c 10.56608,0 16.34528,-8.75392 16.34528,-16.34528 0,-0.24864 0,-0.49616 -0.0168,-0.74256 A 11.68832,11.68832 0 0 0 30,7.31428 11.46656,11.46656 0 0 1 26.70048,8.21812 5.76464,5.76464 0 0 0 29.22608,5.04068 11.51248,11.51248 0 0 1 25.57824,6.43508 5.75008,5.75008 0 0 0 15.78832,11.67444 16.30944,16.30944 0 0 1 3.9488,5.67236 5.74896,5.74896 0 0 0 5.72736,13.341 5.70192,5.70192 0 0 1 3.12,12.62196 c 0,0.0235 0,0.0482 0,0.0728 a 5.74672,5.74672 0 0 0 4.6088,5.63136 5.73552,5.73552 0 0 1 -2.59392,0.0986 5.7512,5.7512 0 0 0 5.36704,3.98944 11.52704,11.52704 0 0 1 -7.1344,2.464 A 11.69392,11.69392 0 0 1 2,24.79524 a 16.26352,16.26352 0 0 0 8.80544,2.576"
+     class="cls-2"
+     style="fill:#1da1f2;stroke-width:0.112" />
+</svg>

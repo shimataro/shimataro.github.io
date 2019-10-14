@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+## 略歴
 
-You can use the [editor on GitHub](https://github.com/shimataro/shimataro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+岩手県盛岡市生まれ、兵庫県在住。
+[名古屋工業大学](https://www.nitech.ac.jp/)卒業。
+[奈良先端科学技術大学院大学](http://www.naist.jp/)情報科学研究科 博士前期課程修了。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+大学院修了後、某SI系企業にエンジニアとして就職。
+その後**某マジシャン**のもとで数年働き、今度は**ウェブ系エンジニア**に転向するという自分でもよくわからない経歴。
 
-### Markdown
+フロントエンド、バックエンド、データベース、インフラ、なんでもござれのフルスタックエンジニア…を目指して日々修行中。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+趣味は**手品**と**プログラミング**と**音楽**。
+最近は**イベント登壇**も半ば趣味と化す。
 
-```markdown
-Syntax highlighted code block
+手品が好きな人（見る/やる問わず）、プログラミングが好きな人、音楽が好きな人、お友達になりましょう！
 
-# Header 1
-## Header 2
-### Header 3
+### ブログ
 
-- Bulleted
-- List
+[欅樹雑記](https://blog.zelkova.cc) - 主に技術系の内容。たまに全く関係ないことも。
 
-1. Numbered
-2. List
+### SNS
 
-**Bold** and _Italic_ and `Code` text
+[![Twitter]({{site.baseurl}}/assets/img/twitter.svg)](https://twitter.com/shimataro999)
+[![Facebook]({{site.baseurl}}/assets/img/facebook.svg)](https://www.facebook.com/odashima.taro)
+[![GitHub]({{site.baseurl}}/assets/img/github.svg)](https://github.com/shimataro)
+[![Qiita]({{site.baseurl}}/assets/img/qiita.svg)](https://qiita.com/shimataro999)
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 哲学・行動原理
 
-### Jekyll Themes
+### ブラッシュアップ
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shimataro/shimataro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* 一度作って満足しない。
+* 良くないものを良く、良いものをより良く。
 
-### Support or Contact
+### シンプルデザイン
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* 完璧なデザインとは、付け加えるものがなくなったときではなく、取り去るものがなくなったとき。
+
+### 再定義
+
+* あらゆるものを見直し、最適な形を模索する。
+
+### アーティスト
+
+* 芸人が与えてくれるのは、**あなたが今まさに欲しいもの**。芸術家が与えてくれるのは、**あなた自身が欲しいかどうかすらわかっていないもの**。
+
+### 長期的・総合的な利益
+
+* 一時的に生産性を落としてでも、今後の生産性のための準備を。
+
+### ストレスフリー
+
+* わかりにくい、遅い、面倒、覚えることが多い…あらゆるストレスを取り除く。
+
+---
+
+## ポートフォリオ
+
+### サービス
+
+#### [QiNeel](https://qineel.com)
+
+オンラインブックマークサービスです。
+「お気に入り登録はしたけど、整理整頓が面倒」という人のために作りました。
+
+あらかじめ決めておいたルールで自動整理できるので、毎回フォルダ分けする必要がありません。
+
+### ライブラリ
+
+#### [value-schema](https://www.npmjs.com/package/value-schema)
+
+ウェブサービスを作るときに必ず必要になるパラメータ処理を、簡単に宣言的に行えるNode.js用のライブラリです。
+
+#### [Install SSH Key Action](https://github.com/marketplace/actions/install-ssh-key)
+
+[GitHub Actions](https://help.github.com/ja/articles/about-github-actions)からSSHやSCP、rsync over SSH等のSSH系コマンドを使いたい時に、鍵認証できるようにするactionです。
+
+### デザイン
+
+[Google Slides テンプレート](https://docs.google.com/presentation/d/1CKcu-bZdQ6zQevIFVKtMqiKlnxQMGP9anAR2B_s39Vo)
+
+デザインセンス0の人間がスライドテンプレートを作ってみました。
+
+背景とフォントをちょっと工夫するだけで意外とイケるもんです。
+
+## 連絡先
+
+<shimataro@zelkova.cc>へお願いします。
+お仕事の依頼等もこちらからどうぞ。
