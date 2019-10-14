@@ -1,5 +1,7 @@
 ## 略歴
 
+![Photo]({{site.baseurl}}assets/img/photo.jpg)<!-- .element: style="float:right;" -->
+
 岩手県盛岡市生まれ、兵庫県在住。
 [名古屋工業大学](https://www.nitech.ac.jp/)卒業。
 [奈良先端科学技術大学院大学](http://www.naist.jp/)情報科学研究科 博士前期課程修了。
