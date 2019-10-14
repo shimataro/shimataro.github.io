@@ -1,3 +1,7 @@
+---
+title: Taro ODASHIMA
+description: A full-stack web engineer, and also an amateur magician!
+---
 ## 略歴
 
 ![Photo]({{site.baseurl}}assets/img/photo.jpg){: style="float: right"}
@@ -86,6 +90,8 @@
 デザインセンス0の人間がスライドテンプレートを作ってみました。
 
 背景とフォントをちょっと工夫するだけで意外とイケるもんです。
+
+---
 
 ## 連絡先
 
