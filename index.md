@@ -3,7 +3,7 @@ title: Taro ODASHIMA
 ---
 ## 略歴
 
-![Photo]({{ site.path.img }}photo.jpg){: .author srcset="{{ site.path.img }}photo.jpg 1x, {{ site.path.img }}photo@2x.jpg 2x"}
+![Author]({{ site.path.img }}author.jpg){: .author srcset="{{ site.path.img }}author.jpg 1x, {{ site.path.img }}author@2x.jpg 2x"}
 
 岩手県盛岡市生まれ、兵庫県在住。
 [名古屋工業大学](https://www.nitech.ac.jp/)工学部 学士課程卒業、[奈良先端科学技術大学院大学](http://www.naist.jp/)情報科学研究科 博士前期課程修了。
