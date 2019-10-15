@@ -78,6 +78,8 @@ title: Taro ODASHIMA
 
 ### デザイン
 
+[![Google Slides テンプレート]({{ site.path.img }}slide@800px.png){: srcset="{{ site.path.img }}slide@280px.png 320w, {{ site.path.img }}slides@560px.png 640w, {{ site.path.img }}slides@800px.png"}](https://docs.google.com/presentation/d/1CKcu-bZdQ6zQevIFVKtMqiKlnxQMGP9anAR2B_s39Vo)
+
 [Google Slides テンプレート](https://docs.google.com/presentation/d/1CKcu-bZdQ6zQevIFVKtMqiKlnxQMGP9anAR2B_s39Vo)
 
 デザインセンス0の人間がスライドテンプレートを作ってみました。
