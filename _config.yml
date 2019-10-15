@@ -3,6 +3,8 @@ title: Taro ODASHIMA
 description: A full-stack web engineer, and also an amateur magician!
 lang: ja
 
+google_analytics: UA-150079955-1
+
 path:
   base: /
   img: /assets/img/
