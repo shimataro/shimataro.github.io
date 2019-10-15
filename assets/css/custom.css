@@ -1,3 +1,9 @@
+img.author
+{
+  float: right;
+  margin: 0 0 8px 8px;
+}
+
 img.icon
 {
   margin: 8px;
