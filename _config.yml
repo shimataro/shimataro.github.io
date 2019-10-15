@@ -14,6 +14,9 @@ sns:
 - title: Facebook
   url: https://www.facebook.com/odashima.taro
   img: facebook.svg
+- title: LinkedIn
+  url: https://www.linkedin.com/in/odashima-taro/
+  img: linkedin.svg
 - title: LINE
   url: https://line.me/ti/p/shimataro777
   img: line.svg
