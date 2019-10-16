@@ -41,13 +41,9 @@ title: Taro ODASHIMA
 
 ### ライブラリ
 
-#### [value-schema](https://www.npmjs.com/package/value-schema)
-
 [![value-schema]({{ site.path.img }}galleries/value-schema@800px.png){: .gallery srcset="{{ site.path.img }}galleries/value-schema@280px.png 320w, {{ site.path.img }}galleries/value-schema@560px.png 640w, {{ site.path.img }}galleries/value-schema@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://www.npmjs.com/package/value-schema)
 
 ウェブサービスを作るときに必ず必要になるパラメータ処理を、**簡単に**、**可読性高く**、**宣言的に**行えるNode.js用のライブラリです。
-
-#### [Install SSH Key Action](https://github.com/marketplace/actions/install-ssh-key)
 
 [![Install SSH Key]({{ site.path.img }}galleries/install-ssh-key@800px.png){: .gallery srcset="{{ site.path.img }}galleries/install-ssh-key@280px.png 320w, {{ site.path.img }}galleries/install-ssh-key@560px.png 640w, {{ site.path.img }}galleries/install-ssh-key@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://github.com/marketplace/actions/install-ssh-key)
 
@@ -55,11 +51,9 @@ title: Taro ODASHIMA
 
 ### デザイン
 
-#### [Google Slides テンプレート](https://docs.google.com/presentation/d/1CKcu-bZdQ6zQevIFVKtMqiKlnxQMGP9anAR2B_s39Vo)
-
 [![Google Slides テンプレート]({{ site.path.img }}galleries/slide@800px.png){: .gallery srcset="{{ site.path.img }}galleries/slide@280px.png 320w, {{ site.path.img }}galleries/slide@560px.png 640w, {{ site.path.img }}galleries/slide@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://docs.google.com/presentation/d/1CKcu-bZdQ6zQevIFVKtMqiKlnxQMGP9anAR2B_s39Vo)
 
-デザインセンス0の人間がスライドテンプレートを作ってみました。
+デザインセンス0の人間がGoogleスライドのテンプレートを作ってみました。
 背景とフォントをちょっと工夫するだけで意外とイケるもんです。
 
 ビンテージっぽさを意識して作ったのですが、全然ビンテージになりませんでした。
