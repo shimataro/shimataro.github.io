@@ -49,6 +49,8 @@ title: Taro ODASHIMA
 
 #### [Install SSH Key Action](https://github.com/marketplace/actions/install-ssh-key)
 
+[![Install SSH Key]({{ site.path.img }}galleries/install-ssh-key@800px.png){: .gallery srcset="{{ site.path.img }}galleries/install-ssh-key@280px.png 320w, {{ site.path.img }}galleries/install-ssh-key@560px.png 640w, {{ site.path.img }}galleries/install-ssh-key@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://github.com/marketplace/actions/install-ssh-key)
+
 [GitHub Actions](https://help.github.com/ja/articles/about-github-actions)からSSHやSCP、rsync over SSH等のSSH系コマンドを使いたい時に、鍵認証できるようにするactionです。
 
 ### デザイン
