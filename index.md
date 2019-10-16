@@ -80,7 +80,7 @@ title: Taro ODASHIMA
 
 #### [Google Slides テンプレート](https://docs.google.com/presentation/d/1CKcu-bZdQ6zQevIFVKtMqiKlnxQMGP9anAR2B_s39Vo)
 
-[![Google Slides テンプレート]({{ site.path.img }}slide@800px.png){: .gallery srcset="{{ site.path.img }}slide@280px.png 320w, {{ site.path.img }}slide@560px.png 640w, {{ site.path.img }}slide@800px.png 800w" sizes="(max-width: 640w) 100vw, 800px"}](https://docs.google.com/presentation/d/1CKcu-bZdQ6zQevIFVKtMqiKlnxQMGP9anAR2B_s39Vo)
+[![Google Slides テンプレート]({{ site.path.img }}slide@800px.png){: .gallery srcset="{{ site.path.img }}slide@280px.png 320w, {{ site.path.img }}slide@560px.png 640w, {{ site.path.img }}slide@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://docs.google.com/presentation/d/1CKcu-bZdQ6zQevIFVKtMqiKlnxQMGP9anAR2B_s39Vo)
 
 デザインセンス0の人間がスライドテンプレートを作ってみました。
 背景とフォントをちょっと工夫するだけで意外とイケるもんです。
