@@ -26,7 +26,9 @@ title: Taro ODASHIMA
 
 ### ブログ
 
-[欅樹雑記](https://blog.zelkova.cc) - 主に技術系の内容。たまに全く関係ないことも。
+[![欅樹雑記]({{ site.path.img }}blog@800px.png){: .gallery srcset="{{ site.path.img }}blog@280px.png 320w, {{ site.path.img }}blog@560px.png 640w, {{ site.path.img }}blog@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://blog.zelkova.cc/)
+
+主に技術系の内容。たまに全く関係ないことも。
 
 ### サービス
 
