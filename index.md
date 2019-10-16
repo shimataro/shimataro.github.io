@@ -45,7 +45,7 @@ title: Taro ODASHIMA
 
 [![value-schema]({{ site.path.img }}galleries/value-schema@800px.png){: .gallery srcset="{{ site.path.img }}galleries/value-schema@280px.png 320w, {{ site.path.img }}galleries/value-schema@560px.png 640w, {{ site.path.img }}galleries/value-schema@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://www.npmjs.com/package/value-schema)
 
-ウェブサービスを作るときに必ず必要になるパラメータ処理を、簡単に宣言的に行えるNode.js用のライブラリです。
+ウェブサービスを作るときに必ず必要になるパラメータ処理を、**簡単に**、**可読性高く**、**宣言的に**行えるNode.js用のライブラリです。
 
 #### [Install SSH Key Action](https://github.com/marketplace/actions/install-ssh-key)
 
