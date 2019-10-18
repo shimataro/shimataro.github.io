@@ -49,7 +49,7 @@ title: Taro ODASHIMA
 
 [GitHub Actions](https://help.github.com/ja/articles/about-github-actions)の仮想環境内にSSH鍵を登録します。
 
-SSH, SCP, rsync over SSH等のSSH系コマンドで、鍵認証で接続できるようになります。
+SSH, SCP, rsync over SSH等のSSH系コマンドで、鍵認証できるようになります。
 
 ### デザイン
 
