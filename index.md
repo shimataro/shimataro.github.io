@@ -64,6 +64,30 @@ SSH, SCP, rsync over SSH等のSSH系コマンドで、鍵認証できるよう�
 
 ---
 
+### 過去の作品
+
+昔つくった、今は更新していない作品集です。
+
+### [Cazary](https://shimataro.me/cazary/)
+
+`textarea`をWYSIWYGのリッチエディタに変身させてくれるjQueryプラグインです。
+[デモページ](https://shimataro.me/cazary/demo.html)も用意してあります。
+
+多言語対応しており、ブラウザの言語設定に応じて表示が変わります。
+日本語、英語、ポーランド語、ポルトガル語、ブラジルポルトガル語に対応しています。
+日本語と英語以外は外国のユーザに翻訳データを送ってもらいました。今ではいい思い出です。
+
+もっと高機能なリッチエディタはいくらでもあるのですが、~~メジャーなものばかりを取り上げたら他と差別化できないためか~~シンプルさゆえか外国のサイトでいろいろ紹介されていたりします。
+
+* [Simple Html WYSIWYG Editor Plugin with jQuery - Cazary | Free jQuery Plugins](https://www.jqueryscript.net/text/Simple-Html-WYSIWYG-Editor-Plugin-with-jQuery-Cazary.html)
+* [5+ Freemium jQuery WYSIWYG Plugins | FormGet](https://www.formget.com/jquery-wysiwyg-plugins/)
+* [8 jQuery Plugins for Rich Text Editors | jQuery By Example](http://www.jquerybyexample.net/2017/04/8-jquery-plugins-for-rich-text-editors.html)
+* [Please recommend a good JQuery rich text editor - Stack Overflow](https://stackoverflow.com/questions/1901546/please-recommend-a-good-jquery-rich-text-editor)
+
+そもそもjQuery自体が下火なので現在は更新していません。
+
+---
+
 ## 哲学・行動原理
 
 ### ブラッシュアップ
