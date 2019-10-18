@@ -1,3 +1,9 @@
+a:hover
+{
+  opacity: 0.75;
+  transition: opacity 0.3s;
+}
+
 img.icon
 {
   margin: 4px;
