@@ -79,9 +79,9 @@ SSH, SCP, rsync over SSH等のSSH系コマンドで、鍵認証できるよう�
 
 もっと高機能なリッチエディタはいくらでもあるのですが、~~メジャーなものばかりを取り上げたら他と差別化できないためか~~シンプルさゆえか外国のサイトでいろいろ紹介されていたりします。
 
-* [Simple Html WYSIWYG Editor Plugin with jQuery - Cazary | Free jQuery Plugins](https://www.jqueryscript.net/text/Simple-Html-WYSIWYG-Editor-Plugin-with-jQuery-Cazary.html)
-* [5+ Freemium jQuery WYSIWYG Plugins | FormGet](https://www.formget.com/jquery-wysiwyg-plugins/)
-* [8 jQuery Plugins for Rich Text Editors | jQuery By Example](http://www.jquerybyexample.net/2017/04/8-jquery-plugins-for-rich-text-editors.html)
+* [Simple Html WYSIWYG Editor Plugin with jQuery - Cazary \| Free jQuery Plugins](https://www.jqueryscript.net/text/Simple-Html-WYSIWYG-Editor-Plugin-with-jQuery-Cazary.html)
+* [5+ Freemium jQuery WYSIWYG Plugins \| FormGet](https://www.formget.com/jquery-wysiwyg-plugins/)
+* [8 jQuery Plugins for Rich Text Editors \| jQuery By Example](http://www.jquerybyexample.net/2017/04/8-jquery-plugins-for-rich-text-editors.html)
 * [Please recommend a good JQuery rich text editor - Stack Overflow](https://stackoverflow.com/questions/1901546/please-recommend-a-good-jquery-rich-text-editor)
 
 そもそもjQuery自体が下火なので現在は更新していません。
