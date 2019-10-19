@@ -122,6 +122,24 @@ C++で書いた正規表現ライブラリです。
 
 もちろん聴講のみもOKです。
 
+### OSS活動
+
+コアメンバーとして活動しているわけではありませんが、バグ修正やあったら便利な機能をちょこちょこPull Requestしています。
+
+#### [Babel](https://github.com/babel/babel)
+
+[Node.js v12でES Modulesの挙動が変わり](https://medium.com/@nodejs/announcing-a-new-experimental-modules-1be8d2d6c2ff)、Babelでの変換結果がエラーになることがありました。
+
+それを解決するPull Requestを送りました。
+
+#### [Gentoo Linux](https://github.com/gentoo/gentoo)
+
+ビルドエラーになるパッケージを直したり、古いままのパッケージを更新したり。
+
+#### [i18next-express-middleware](https://github.com/i18next/i18next-express-middleware)
+
+TypeScriptでも使えるように型定義ファイルを送りました。
+
 ### 発表資料
 
 #### [SpeakerDeck](https://speakerdeck.com/shimataro)
