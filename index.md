@@ -54,6 +54,13 @@ title: Taro ODASHIMA
 
 SSH, SCP, rsync over SSH等のSSH系コマンドで鍵認証できるようになります。
 
+### ブラウザ拡張
+
+ちょっと単語の意味を調べたいというときに便利なFirefox検索アドオンを作りました。
+
+* [goo辞書](https://addons.mozilla.org/ja/firefox/addon/goo-dic/)
+* [Weblio 英和・和英辞典](https://addons.mozilla.org/ja/firefox/addon/weblio-ejje/)
+
 ### デザイン
 
 [![Google Slides テンプレート]({{ site.path.img }}galleries/slide@800px.png){: .gallery srcset="{{ site.path.img }}galleries/slide@280px.png 320w, {{ site.path.img }}galleries/slide@560px.png 640w, {{ site.path.img }}galleries/slide@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://docs.google.com/presentation/d/1CKcu-bZdQ6zQevIFVKtMqiKlnxQMGP9anAR2B_s39Vo)
