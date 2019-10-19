@@ -19,6 +19,9 @@ sns:
 - title: LinkedIn
   url: https://www.linkedin.com/in/odashima-taro/
   img: linkedin.svg
+- title: Messenger
+  url: https://m.me/odashima.taro
+  img: messenger.svg
 - title: LINE
   url: https://line.me/ti/p/bCc09e9jFB
   img: line.svg
