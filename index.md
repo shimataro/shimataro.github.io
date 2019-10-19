@@ -56,7 +56,7 @@ SSH, SCP, rsync over SSH等のSSH系コマンドで鍵認証できるように�
 
 ### ブラウザ拡張
 
-ちょっと単語の意味を調べたいというときに便利なFirefox検索アドオンを作りました。
+ちょっと単語の意味を調べたいというときに便利なFirefox検索アドオンです。
 
 * [goo辞書](https://addons.mozilla.org/ja/firefox/addon/goo-dic/)
 * [Weblio 英和・和英辞典](https://addons.mozilla.org/ja/firefox/addon/weblio-ejje/)
@@ -72,52 +72,7 @@ SSH, SCP, rsync over SSH等のSSH系コマンドで鍵認証できるように�
 
 ---
 
-## 過去の作品
-
-昔つくった、今は更新していない作品集です。
-
-### [Cazary](https://shimataro.me/cazary/)
-
-`textarea`をWYSIWYGのリッチエディタに変えるjQueryプラグインです。
-[デモページ](https://shimataro.me/cazary/demo.html)も用意してあります。
-
-多言語対応しており、ブラウザの言語設定に応じて表示が変わります。
-日本語、英語、ポーランド語、ポルトガル語、ブラジルポルトガル語に対応しています。
-日本語と英語以外は外国のユーザが翻訳データを送ってくれました。
-
-もっと高機能なリッチエディタはいくらでもあるのですが、~~メジャーなものばかりを取り上げたら他と差別化できないためか~~シンプルさゆえか外国のサイトでいろいろ紹介されていたりします。
-
-* [Simple Html WYSIWYG Editor Plugin with jQuery - Cazary \| Free jQuery Plugins](https://www.jqueryscript.net/text/Simple-Html-WYSIWYG-Editor-Plugin-with-jQuery-Cazary.html)
-* [5+ Freemium jQuery WYSIWYG Plugins \| FormGet](https://www.formget.com/jquery-wysiwyg-plugins/)
-* [8 jQuery Plugins for Rich Text Editors \| jQuery By Example](http://www.jquerybyexample.net/2017/04/8-jquery-plugins-for-rich-text-editors.html)
-* [Please recommend a good JQuery rich text editor - Stack Overflow](https://stackoverflow.com/questions/1901546/please-recommend-a-good-jquery-rich-text-editor)
-
-そもそもjQuery自体が下火なので現在は更新していません。
-
-### [Maxy](http://maxy.osdn.jp/)
-
-Windows用のシンプルなテキストエディタです。
-既存のフレームワークを使わず、C++でWindows APIを直に叩いてスクラッチで作成しました。
-
-マルチスレッドモデルを採用しており、複数ウインドウを開いてもとても少ない消費リソースで動作します。
-色分けに対応しています…が、機能的には足りないところが多すぎるので常用には耐えません。
-
-現在はWindowsを使っていないので更新停止しています。
-
-### [Mercury::Regex](http://mercury-regex.osdn.jp/)
-
-C++で書いた正規表現ライブラリです。
-誰でも、どんな目的にでも、どんな環境でも、どんな文字型でも、どんなデータ構造でも使える自由度の高い正規表現エンジンを作ることを目的としていました。
-
-メタ文字も自分で設定できるほど~~無駄に~~カスタマイズ性が高いのですが、**自由度に力を入れすぎて**遅かったのと、C++11で標準ライブラリ`std::regex`が導入されたのでお役御免になりました。
-
-作ったのが昔すぎて、**なんでMercuryなのか忘れました**。
-
----
-
 ## 開発関連の活動
-
-ポートフォリオに載せられない開発関連の活動一覧です。
 
 ### コミュニティ
 
@@ -187,6 +142,49 @@ TypeScriptでも使えるように型定義ファイルを送りました。
 
 たまーーに更新します。
 ちょっとした翻訳や誤字脱字の修正レベルなので「執筆」と呼べるレベルではありませんが。
+
+---
+
+## 過去の作品
+
+昔つくった、今は更新していない作品集です。
+
+### [Cazary](https://shimataro.me/cazary/)
+
+`textarea`をWYSIWYGのリッチエディタに変えるjQueryプラグインです。
+[デモページ](https://shimataro.me/cazary/demo.html)も用意してあります。
+
+多言語対応しており、ブラウザの言語設定に応じて表示が変わります。
+日本語、英語、ポーランド語、ポルトガル語、ブラジルポルトガル語に対応しています。
+日本語と英語以外は外国のユーザが翻訳データを送ってくれました。
+
+もっと高機能なリッチエディタはいくらでもあるのですが、~~メジャーなものばかりを取り上げたら他と差別化できないためか~~シンプルさゆえか外国のサイトでいろいろ紹介されていたりします。
+
+* [Simple Html WYSIWYG Editor Plugin with jQuery - Cazary \| Free jQuery Plugins](https://www.jqueryscript.net/text/Simple-Html-WYSIWYG-Editor-Plugin-with-jQuery-Cazary.html)
+* [5+ Freemium jQuery WYSIWYG Plugins \| FormGet](https://www.formget.com/jquery-wysiwyg-plugins/)
+* [8 jQuery Plugins for Rich Text Editors \| jQuery By Example](http://www.jquerybyexample.net/2017/04/8-jquery-plugins-for-rich-text-editors.html)
+* [Please recommend a good JQuery rich text editor - Stack Overflow](https://stackoverflow.com/questions/1901546/please-recommend-a-good-jquery-rich-text-editor)
+
+そもそもjQuery自体が下火なので現在は更新していません。
+
+### [Maxy](http://maxy.osdn.jp/)
+
+Windows用のシンプルなテキストエディタです。
+既存のフレームワークを使わず、C++でWindows APIを直に叩いてスクラッチで作成しました。
+
+マルチスレッドモデルを採用しており、複数ウインドウを開いてもとても少ない消費リソースで動作します。
+色分けに対応しています…が、機能的には足りないところが多すぎるので常用には耐えません。
+
+現在はWindowsを使っていないので更新停止しています。
+
+### [Mercury::Regex](http://mercury-regex.osdn.jp/)
+
+C++で書いた正規表現ライブラリです。
+誰でも、どんな目的にでも、どんな環境でも、どんな文字型でも、どんなデータ構造でも使える自由度の高い正規表現エンジンを作ることを目的としていました。
+
+メタ文字も自分で設定できるほど~~無駄に~~カスタマイズ性が高いのですが、**自由度に力を入れすぎて**遅かったのと、C++11で標準ライブラリ`std::regex`が導入されたのでお役御免になりました。
+
+作ったのが昔すぎて、**なんでMercuryなのか忘れました**。
 
 ---
 
