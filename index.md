@@ -54,6 +54,24 @@ title: Taro ODASHIMA
 
 SSH, SCP, rsync over SSH等のSSH系コマンドで鍵認証できるようになります。
 
+### アプリ
+
+[![恵方くん for Android]({{ site.path.img }}galleries/eho-for-android@800px.png){: .gallery srcset="{{ site.path.img }}galleries/eho-for-android@280px.png 320w, {{ site.path.img }}galleries/eho-for-android@560px.png 640w, {{ site.path.img }}galleries/eho-for-android@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://play.google.com/store/apps/details?id=com.shimataro.eho)
+
+年を入力すると、その年の恵方を示してくれるAndroidアプリです。
+さらに、節分の日になると教えてくれる**神機能**もついています。
+
+こんなアプリが完全無料で使えるなんて、**全国の恵方マニア**から感謝の声が聞こえてきそうな気がします。
+
+### LINEbot
+
+#### [恵方くん LINEbot](https://line.me/ti/p/@wxr7445k)
+
+恵方くんのLINEbotバージョンです。
+「2019年」「今年」「1年前」などに反応して、その年の恵方を教えてくれます。
+
+Androidを持っていない方も、これで備えは万全です。
+
 ### ブラウザ拡張
 
 ちょっと単語の意味を調べたいというときに便利なFirefox検索アドオンです。
