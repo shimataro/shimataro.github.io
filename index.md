@@ -10,7 +10,7 @@ title: Taro ODASHIMA
 
 学部生時代はジェスチャー（動画像）認識、院生時代はARを研究。
 
-大学院修了後、某SI系企業にエンジニアとして就職。
+大学院修了後、某SI系企業にソフトウェアエンジニアとして就職。
 その後**某マジシャン**のもとで数年働き、今度は**ウェブ系エンジニア**に転向するという自分でもよくわからない経歴。
 
 フロントエンド、バックエンド、データベース、インフラ、なんでもござれのフルスタックエンジニア…を目指して日々修行中。
@@ -45,19 +45,20 @@ title: Taro ODASHIMA
 
 ウェブサービスを作るときに必ず必要になるパラメータ処理を、**簡単に**、**可読性高く**、**宣言的に**行えるNode.js用のライブラリです。
 
-「数値かどうかチェックして、数値でない場合は数値化できるかチェックして、数値化した後に値の範囲をチェックして…」といった手続き的なロジックを実装する必要がないので、可読性が高くバグの少ないコードを簡単に書けます。
+宣言的なインターフェースなので「数値かどうかチェックして、数値でない場合は数値化できるかチェックして、数値化した後に値の範囲をチェックして…」といった**ロジックを実装する必要がありません**。
+そのため、可読性が高くバグの少ないコードを簡単に書けます。
 
 [![Install SSH Key]({{ site.path.img }}galleries/install-ssh-key@800px.png){: .gallery srcset="{{ site.path.img }}galleries/install-ssh-key@280px.png 320w, {{ site.path.img }}galleries/install-ssh-key@560px.png 640w, {{ site.path.img }}galleries/install-ssh-key@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://github.com/marketplace/actions/install-ssh-key)
 
 [GitHub Actions](https://help.github.com/ja/articles/about-github-actions)の仮想環境内にSSH鍵を登録します。
 
-SSH, SCP, rsync over SSH等のSSH系コマンドで、鍵認証できるようになります。
+SSH, SCP, rsync over SSH等のSSH系コマンドで鍵認証できるようになります。
 
 ### デザイン
 
 [![Google Slides テンプレート]({{ site.path.img }}galleries/slide@800px.png){: .gallery srcset="{{ site.path.img }}galleries/slide@280px.png 320w, {{ site.path.img }}galleries/slide@560px.png 640w, {{ site.path.img }}galleries/slide@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://docs.google.com/presentation/d/1CKcu-bZdQ6zQevIFVKtMqiKlnxQMGP9anAR2B_s39Vo)
 
-デザインセンス0の人間がGoogleスライドのテンプレートを作ってみました。
+**デザインセンス0**の人間が[Googleスライド](https://www.google.com/intl/ja_jp/slides/about/)のテンプレートを作ってみました。
 背景とフォントをちょっと工夫するだけで意外とイケるもんです。
 
 ビンテージっぽさを意識して作ったのですが、全然ビンテージになりませんでした。
@@ -70,12 +71,12 @@ SSH, SCP, rsync over SSH等のSSH系コマンドで、鍵認証できるよう�
 
 ### [Cazary](https://shimataro.me/cazary/)
 
-`textarea`をWYSIWYGのリッチエディタに変身させてくれるjQueryプラグインです。
+`textarea`をWYSIWYGのリッチエディタに変えるjQueryプラグインです。
 [デモページ](https://shimataro.me/cazary/demo.html)も用意してあります。
 
 多言語対応しており、ブラウザの言語設定に応じて表示が変わります。
 日本語、英語、ポーランド語、ポルトガル語、ブラジルポルトガル語に対応しています。
-日本語と英語以外は外国のユーザに翻訳データを送ってもらいました。今ではいい思い出です。
+日本語と英語以外は外国のユーザが翻訳データを送ってくれました。
 
 もっと高機能なリッチエディタはいくらでもあるのですが、~~メジャーなものばかりを取り上げたら他と差別化できないためか~~シンプルさゆえか外国のサイトでいろいろ紹介されていたりします。
 
@@ -89,19 +90,21 @@ SSH, SCP, rsync over SSH等のSSH系コマンドで、鍵認証できるよう�
 ### [Maxy](http://maxy.osdn.jp/)
 
 Windows用のシンプルなテキストエディタです。
-既存のフレームワークを使わず、C++でWindows APIを直に叩いてスクラッチで作成しています。
+既存のフレームワークを使わず、C++でWindows APIを直に叩いてスクラッチで作成しました。
 
 マルチスレッドモデルを採用しており、複数ウインドウを開いてもとても少ない消費リソースで動作します。
 色分けに対応しています…が、機能的には足りないところが多すぎるので常用には耐えません。
 
+現在はWindowsを使っていないので更新停止しています。
+
 ### [Mercury::Regex](http://mercury-regex.osdn.jp/)
 
 C++で書いた正規表現ライブラリです。
-誰でも、どんな目的にでも、どんな環境でも、どんな文字型でも、どんなデータ構造でも使える自由度の高い正規表現エンジンを作ることを目的としています。
+誰でも、どんな目的にでも、どんな環境でも、どんな文字型でも、どんなデータ構造でも使える自由度の高い正規表現エンジンを作ることを目的としていました。
 
-メタ文字も自分で設定できるほど~~無駄に~~カスタマイズ性が高いのですが、自由度に力を入れすぎてクソ遅かったのと、C++11で標準ライブラリ`std::regex`が導入されたのでお役御免になりました。
+メタ文字も自分で設定できるほど~~無駄に~~カスタマイズ性が高いのですが、**自由度に力を入れすぎて**遅かったのと、C++11で標準ライブラリ`std::regex`が導入されたのでお役御免になりました。
 
-作ったのが昔すぎて、なんでMercuryなのか忘れました。
+作ったのが昔すぎて、**なんでMercuryなのか忘れました**。
 
 ---
 
@@ -109,9 +112,11 @@ C++で書いた正規表現ライブラリです。
 
 ポートフォリオに載せられない開発関連の活動一覧です。
 
-### [World Wide Web Kansai](https://w3k.connpass.com/)
+### コミュニティ
 
-関西のウェブ業界で、特定の技術（言語やフレームワークとか）の勉強会はかなりあるのですが、Web全般を扱った勉強会がないよねーということで知人とコミュニティを作りました。
+#### [World Wide Web Kansai](https://w3k.connpass.com/)
+
+関西のウェブ業界で、特定の技術（言語やフレームワークとか）の勉強会はかなりあるのですが、**Web全般を扱った勉強会がないよねー**ということで知人とコミュニティを作りました。
 
 バックエンド、パフォーマンス、セキュリティ、Web標準（WebGL、Web Components、WebAssembly等々）…他の勉強会では話せないけどぜひ語りたいものがあれば奮ってご参加ください。
 
