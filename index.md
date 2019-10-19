@@ -78,7 +78,7 @@ SSH, SCP, rsync over SSH等のSSH系コマンドで鍵認証できるように�
 
 #### [World Wide Web Kansai](https://w3k.connpass.com/)
 
-関西のウェブ業界で、特定の技術（言語やフレームワークとか）の勉強会はかなりあるのですが、**Web全般を扱った勉強会がないよねー**ということで知人とコミュニティを作りました。
+関西のウェブ業界で、特定の技術（言語やフレームワークとか）の勉強会はかなりあるのですが、**Web全般を扱った勉強会がないよねー**ということで知人とコミュニティを立ち上げました。
 
 バックエンド、パフォーマンス、セキュリティ、Web標準（WebGL、Web Components、WebAssembly等々）…他の勉強会では話せないけどぜひ語りたいものがあれば奮ってご参加ください。
 
@@ -95,29 +95,15 @@ SSH, SCP, rsync over SSH等のSSH系コマンドで鍵認証できるように�
 
 コアメンバーとして活動しているわけではありませんが、バグ修正やあったら便利な機能をちょこちょこPull Requestしています。
 
-#### [Babel](https://github.com/babel/babel)
-
-[Node.js v12でES Modulesの挙動が変わり](https://medium.com/@nodejs/announcing-a-new-experimental-modules-1be8d2d6c2ff)、Babelでの変換結果がエラーになることがありました。
-
-それを解決するPull Requestを送りました。
-
-#### [Gentoo Linux](https://github.com/gentoo/gentoo)
-
-ビルドエラーになるパッケージを直したり、古いままのパッケージを更新したり。
-
-#### [i18next-express-middleware](https://github.com/i18next/i18next-express-middleware)
-
-TypeScriptでも使えるように型定義ファイルを送りました。
+* [Babel](https://github.com/babel/babel)
+* [Gentoo Linux](https://github.com/gentoo/gentoo)
+* [i18next-express-middleware](https://github.com/i18next/i18next-express-middleware)
 
 ### 登壇
 
-#### [発表資料](https://speakerdeck.com/shimataro)
-
-ここ数年で**技術系の勉強会で**発表した資料です。
+ここ数年で**技術系の勉強会で**発表した資料を公開しています→[発表資料](https://speakerdeck.com/shimataro)
 
 技術系の勉強会以外での登壇は含まれていません。
-
-#### 主な登壇カンファレンス
 
 大きなカンファレンスでは以下のものに登壇しました。
 
