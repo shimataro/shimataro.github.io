@@ -81,7 +81,7 @@ Androidを持っていない方も、これで備えは万全です。
 
 ### デザイン
 
-[![Google Slides テンプレート]({{ site.path.img }}galleries/slide@800px.png){: .gallery srcset="{{ site.path.img }}galleries/slide@280px.png 320w, {{ site.path.img }}galleries/slide@560px.png 640w, {{ site.path.img }}galleries/slide@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://docs.google.com/presentation/d/1CKcu-bZdQ6zQevIFVKtMqiKlnxQMGP9anAR2B_s39Vo)
+[![Google Slides テンプレート]({{ site.path.img }}galleries/slide@800px.png){: .gallery srcset="{{ site.path.img }}galleries/slide@280px.png 320w, {{ site.path.img }}galleries/slide@340px.png 375w, {{ site.path.img }}galleries/slide@560px.png 640w, {{ site.path.img }}galleries/slide@680px.png 750w, {{ site.path.img }}galleries/slide@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://docs.google.com/presentation/d/1CKcu-bZdQ6zQevIFVKtMqiKlnxQMGP9anAR2B_s39Vo)
 
 **デザインセンス0**の人間が[Googleスライド](https://www.google.com/intl/ja_jp/slides/about/)のテンプレートを作ってみました。
 背景とフォントをちょっと工夫するだけで意外とイケるもんです。
