@@ -25,9 +25,6 @@ sns:
 - title: LINE
   url: https://line.me/ti/p/bCc09e9jFB
   img: line.svg
-- title: GitHub
-  url: https://github.com/shimataro
-  img: github.svg
 
 defaults:
 - scope:
