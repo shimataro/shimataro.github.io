@@ -3,7 +3,7 @@ title: Taro ODASHIMA
 ---
 ## 略歴
 
-![Author]({{ site.path.img }}author.jpg){: .author srcset="{{ site.path.img }}author.jpg 1x, {{ site.path.img }}author@2x.jpg 2x"}
+![Author]({{ site.path.img }}author.jpg){: .author srcset="{{ site.path.img }}author.jpg 1x, {{ site.path.img }}author@2x.jpg 2x, {{ site.path.img }}author@4x.jpg 4x"}
 
 岩手県盛岡市生まれ、兵庫県在住。
 [名古屋工業大学](https://www.nitech.ac.jp/)工学部 学士課程卒業、[奈良先端科学技術大学院大学](http://www.naist.jp/)情報科学研究科 博士前期課程修了。
@@ -81,7 +81,7 @@ Androidを持っていない方も、これで備えは万全です。
 
 ### デザイン
 
-[![Google Slides テンプレート]({{ site.path.img }}galleries/slide@800px.png){: .gallery srcset="{{ site.path.img }}galleries/slide@280px.png 320w, {{ site.path.img }}galleries/slide@560px.png 640w, {{ site.path.img }}galleries/slide@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://docs.google.com/presentation/d/1CKcu-bZdQ6zQevIFVKtMqiKlnxQMGP9anAR2B_s39Vo)
+[![Google Slides テンプレート]({{ site.path.img }}galleries/slide@800px.png){: .gallery srcset="{{ site.path.img }}galleries/slide@280px.png 320w, {{ site.path.img }}galleries/slide@340px.png 375w, {{ site.path.img }}galleries/slide@560px.png 640w, {{ site.path.img }}galleries/slide@680px.png 750w, {{ site.path.img }}galleries/slide@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://docs.google.com/presentation/d/1CKcu-bZdQ6zQevIFVKtMqiKlnxQMGP9anAR2B_s39Vo)
 
 **デザインセンス0**の人間が[Googleスライド](https://www.google.com/intl/ja_jp/slides/about/)のテンプレートを作ってみました。
 背景とフォントをちょっと工夫するだけで意外とイケるもんです。
