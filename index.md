@@ -94,7 +94,7 @@ Androidを持っていない方も、これで備えは万全です。
 
 ### アカウント
 
-[GitHub](https://github.com/shimataro) / [MDN](https://wiki.developer.mozilla.org/ja/profiles/shimataro) / [Qiita](https://qiita.com/shimataro999)
+[GitHub](https://github.com/shimataro) / [SpeakerDeck](https://speakerdeck.com/shimataro) / [npm](https://www.npmjs.com/~shimataro) / [MDN](https://wiki.developer.mozilla.org/ja/profiles/shimataro) / [Qiita](https://qiita.com/shimataro999)
 
 ### コミュニティ
 
@@ -123,7 +123,7 @@ Androidを持っていない方も、これで備えは万全です。
 
 ### 登壇
 
-ここ数年で**技術系の勉強会で**発表した資料を公開しています→[発表資料](https://speakerdeck.com/shimataro)
+ここ数年で**技術系の勉強会で**発表した資料を公開しています→[SpeakerDeck](https://speakerdeck.com/shimataro)
 
 技術系の勉強会以外での登壇は含まれていません。
 
