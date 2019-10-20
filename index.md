@@ -92,6 +92,10 @@ Androidを持っていない方も、これで備えは万全です。
 
 ## 開発関連の活動
 
+### アカウント
+
+[GitHub](https://github.com/shimataro) / [MDN](https://wiki.developer.mozilla.org/ja/profiles/shimataro) / [Qiita](https://qiita.com/shimataro999)
+
 ### コミュニティ
 
 #### [World Wide Web Kansai](https://w3k.connpass.com/)
