@@ -96,6 +96,19 @@ Androidを持っていない方も、これで備えは万全です。
 
 [GitHub](https://github.com/shimataro) / [SpeakerDeck](https://speakerdeck.com/shimataro) / [npm](https://www.npmjs.com/~shimataro) / [MDN](https://wiki.developer.mozilla.org/ja/profiles/shimataro) / [Qiita](https://qiita.com/shimataro999)
 
+### スキル
+
+* **資格**: LPIC-3 Specialty (LPI-303 Security, LPI-304 Virtualization & High Availability)
+* **得意分野**: 要件定義, アプリケーション設計, データベース設計, パフォーマンスチューニング, 負荷分散, 開発支援
+* **OS**: Ubuntu, CentOS, Amazon Linux 2, Gentoo Linux
+* **言語**: C, C++, Java, JavaScript, TypeScript, PHP, Python, Go
+* **ウェブフロントエンド**: Vue.js, jQuery, Sass, pug
+* **ウェブフレームワーク**: Express.js, Spring Boot
+* **ウェブサーバ**: Apache, nginx
+* **データベース**: MySQL, memcached, Redis
+* **仮想化**: VirtualBox, Docker, Kubernetes
+* **CI**: GitHub Actions, Jenkins, Travis CI, AppVeyor
+
 ### コミュニティ
 
 #### [World Wide Web Kansai](https://w3k.connpass.com/)
@@ -206,10 +219,15 @@ C++で書いた正規表現ライブラリです。
 ### シンプルデザイン
 
 * 完璧なデザインとは、付け加えるものがなくなったものではなく、取り去るものがなくなったもの。
+* 空白をデザインする。
 
 ### 再定義
 
 * あらゆるものを見直し、最適な形を模索する。
+
+### 遊び心
+
+* イノベーションは遊びと余裕から生まれる。
 
 ### アーティスト
 
