@@ -99,7 +99,7 @@ Androidを持っていない方も、これで備えは万全です。
 ### スキル
 
 * 資格: LPIC-3 Specialty (LPI-303 Security, LPI-304 Virtualization & High Availability)
-* 得意分野: アプリケーション設計, データベース設計, パフォーマンスチューニング, 負荷分散, 開発支援
+* 得意分野: 要件定義, アプリケーション設計, データベース設計, パフォーマンスチューニング, 負荷分散, 開発支援
 * OS: Ubuntu, CentOS, Amazon Linux 2, Gentoo Linux
 * 言語: C, C++, Java, JavaScript, TypeScript, PHP, Python, Go
 * ウェブフロントエンド: Vue.js, jQuery, Sass, pug
