@@ -200,6 +200,14 @@ Windows用のシンプルなテキストエディタです。
 
 現在はWindowsを使っていないので更新停止しています。
 
+### [Photo Operator](https://github.com/shimataro/POP)
+
+大昔（メモリ500MB、Windows XP時代）に作ったフォトレタッチソフトです。
+当時は無駄に画像加工のアルゴリズムにハマっていました。
+
+家のクッソ古いPCに入っているのを見つけました。
+このまま**黒歴史**として葬るのもアレなので全部公開します。
+
 ### [Mercury::Regex](http://mercury-regex.osdn.jp/)
 
 C++で書いた正規表現ライブラリです。
