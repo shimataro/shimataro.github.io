@@ -90,6 +90,17 @@ Androidを持っていない方も、これで備えは万全です。
 ビンテージっぽさを意識して作ったのですが、**全然ビンテージになりませんでした**。
 このへんにデザインセンスの限界を感じます。
 
+### 手品
+
+[![コインの移動]({{ site.path.img }}galleries/magic@800px.png){: .gallery srcset="{{ site.path.img }}galleries/magic@280px.png 320w, {{ site.path.img }}galleries/magic@340px.png 375w, {{ site.path.img }}galleries/magic@560px.png 640w, {{ site.path.img }}galleries/magic@680px.png 750w, {{ site.path.img }}galleries/magic@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://youtu.be/DtEhGtsI-MY)
+
+手品動画をアップしてみました。
+4枚のコインが一箇所に集まる、**コインアセンブリー**というジャンルの手品です。
+
+せっかくなので、[令和元年 天皇陛下御即位記念五百円](https://www.mof.go.jp/currency/coin/commemorative_coin/emperors_enthronement/20190920.html)を使って撮影。
+
+一応これもポートフォリオです。多分。
+
 ------
 
 ## 開発関連の活動
