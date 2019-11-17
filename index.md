@@ -92,7 +92,7 @@ Androidを持っていない方も、これで備えは万全です。
 
 ### 手品
 
-<iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/igT3yTr6oiA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/oeaA3pn_oAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 手品動画をアップしてみました。
 4枚のコインが一箇所に集まる、**コインアセンブリー**というジャンルの手品です。
