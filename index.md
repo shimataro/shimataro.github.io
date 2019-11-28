@@ -66,7 +66,7 @@ SSH, SCP, rsync over SSH等のSSH系コマンドで鍵認証できるように�
 
 ### LINEbot
 
-#### [恵方くん LINEbot](https://line.me/ti/p/@wxr7445k)
+#### [![恵方くん LINEbot]({{ site.path.img }}galleries/eho-linebot@750px.png){: .gallery srcset="{{ site.path.img }}galleries/eho-linebot@750px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://line.me/ti/p/@wxr7445k)
 
 恵方くんのLINEbotバージョンです。
 「2019年」「今年」「1年前」などに反応して、その年の恵方を教えてくれます。
