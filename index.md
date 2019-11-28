@@ -78,7 +78,7 @@ Androidを持っていない方も、これで備えは万全です。
 ちょっと単語の意味を調べたいときに便利なFirefox検索アドオンです。
 
 * [goo辞書](https://addons.mozilla.org/ja/firefox/addon/goo-dic/)
-* [Weblio 英和・和英辞典](https://addons.mozilla.org/ja/firefox/addon/weblio-ejje/)
+* [Weblio英和辞典・和英辞典](https://addons.mozilla.org/ja/firefox/addon/weblio-ejje/)
 
 ### デザイン
 
