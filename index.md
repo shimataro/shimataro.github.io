@@ -159,6 +159,7 @@ Androidを持っていない方も、これで備えは万全です。
 * [iOSDC Japan 2018](https://iosdc.jp/2018/) （※採択されたけど用事が入って参加できず）
 * [東京Node学園祭2017](https://nodefest.jp/2017/)
 * [東京Node学園祭2018](https://nodefest.jp/2018/)
+* [TSConf JP 2020](https://www.tsconf.jp/2020/) （※新型コロナウィルスの影響で中止）
 
 小さなものも含めるといろいろやってます。
 技術系以外も含めると月イチペースで登壇しています。
