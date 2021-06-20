@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Taro ODASHIMA
-description: A full-stack web engineer, and also an amateur magician!
+description: A full-stack web engineer, and a close-up magician!
 lang: ja
 
 google_analytics: UA-150079955-1
@@ -16,21 +16,24 @@ sns:
 - title: Facebook
   url: https://www.facebook.com/odashima.taro
   img: facebook.svg
+- title: Instagram
+  url: https://www.instagram.com/shimataro999
+  img: instagram.svg
 - title: LinkedIn
   url: https://www.linkedin.com/in/odashima-taro/
   img: linkedin.svg
 - title: Messenger
   url: https://m.me/odashima.taro
   img: messenger.svg
-- title: Telegram
-  url: https://t.me/shimataro
-  img: telegram.svg
+#- title: Telegram
+#  url: https://t.me/shimataro
+#  img: telegram.svg
 - title: LINE
   url: https://line.me/ti/p/bCc09e9jFB
   img: line.svg
-- title: GitHub
-  url: https://github.com/shimataro
-  img: github.svg
+#- title: GitHub
+#  url: https://github.com/shimataro
+#  img: github.svg
 
 defaults:
 - scope:
