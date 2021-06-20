@@ -25,15 +25,15 @@ sns:
 - title: Messenger
   url: https://m.me/odashima.taro
   img: messenger.svg
-- title: Telegram
-  url: https://t.me/shimataro
-  img: telegram.svg
+#- title: Telegram
+#  url: https://t.me/shimataro
+#  img: telegram.svg
 - title: LINE
   url: https://line.me/ti/p/bCc09e9jFB
   img: line.svg
-- title: GitHub
-  url: https://github.com/shimataro
-  img: github.svg
+#- title: GitHub
+#  url: https://github.com/shimataro
+#  img: github.svg
 
 defaults:
 - scope:
