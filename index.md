@@ -55,6 +55,8 @@ title: Taro ODASHIMA
 
 SSH, SCP, rsync over SSH等のSSH系コマンドで鍵認証できるようになります。
 
+[NASA](https://github.com/nasa)、[JetBrains](https://github.com/JetBrains)、[PingCAP](https://github.com/pingcap)、[MongoDB](https://github.com/mongodb)のような有名な組織・会社・プロジェクト等でも、ウェブサイトの更新やライブラリーのデプロイ等に使われています。
+
 ### アプリ
 
 [![恵方くん for Android]({{ site.path.img }}galleries/eho-for-android@800px.png){: .gallery srcset="{{ site.path.img }}galleries/eho-for-android@280px.png 320w, {{ site.path.img }}galleries/eho-for-android@560px.png 640w, {{ site.path.img }}galleries/eho-for-android@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://play.google.com/store/apps/details?id=com.shimataro.eho)
