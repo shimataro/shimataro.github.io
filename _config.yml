@@ -10,9 +10,9 @@ path:
   img: /assets/img/
 
 sns:
-- title: Twitter
-  url: https://twitter.com/shimataro999
-  img: twitter.svg
+- title: 𝕏
+  url: https://x.com/shimataro999
+  img: x.svg
 - title: Facebook
   url: https://www.facebook.com/odashima.taro
   img: facebook.svg
