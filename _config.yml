@@ -22,6 +22,9 @@ sns:
 - title: LinkedIn
   url: https://www.linkedin.com/in/odashima-taro/
   img: linkedin.svg
+- title: Skype
+  url: https://join.skype.com/invite/eswasIdRqVxi
+  img: skype.svg
 - title: Messenger
   url: https://m.me/odashima.taro
   img: messenger.svg
