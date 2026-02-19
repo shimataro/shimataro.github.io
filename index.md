@@ -35,7 +35,7 @@ title: Taro ODASHIMA
 
 #### [Kyotify](https://kyotify.jp)
 
-![Kyotify](https://kyotify.jp/ogp.svg)
+[![Kyotify](https://kyotify.jp/ogp.svg)](https://kyotify.jp)
 
 古の文化と最新の技術の融合（大袈裟）です。
 
