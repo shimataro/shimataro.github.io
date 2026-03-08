@@ -28,8 +28,10 @@ title: Taro ODASHIMA
 
 [![コミットできない]({{ site.path.img }}galleries/blog@1200px.png){: .gallery width="50%"}](https://blog.shimataro.me)
 
-主に技術系の内容です。
-たまに全く関係ないことも。
+主に技術系の内容をゆるく書いてます。
+たまにネタ、ごく稀に真面目な話。
+
+役立つ保証はありません。
 
 [以前のブログ](https://blog.zelkova.cc)はそのうちこちらに移しますが、分量がそこそこあるのでいつになるかわかりません。
 
@@ -42,6 +44,8 @@ title: Taro ODASHIMA
 古の文化と最新の技術の融合（大袈裟）です。
 
 ついカッとなった時、このサービスを思い出して「いけず」の文化を体験してください。
+
+もう少し詳しい説明は[こちら](https://blog.shimataro.me/posts/2026/03/kyotify/)
 
 使用には𝕏認証（OAuth2）が必要で、以下の情報を取得します。
 
@@ -57,6 +61,8 @@ title: Taro ODASHIMA
 デザインをカスタマイズできる、無料のQRコードジェネレーターです。
 
 フロントエンドで全て完結するので、プライバシーへの配慮も完璧。
+
+もう少し詳しい説明は[こちら](https://blog.shimataro.me/posts/2026/03/qr-designer/)
 
 ※「QRコード」は、株式会社デンソーウェーブの登録商標です。
 
