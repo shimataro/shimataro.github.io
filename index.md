@@ -26,16 +26,18 @@ title: Taro ODASHIMA
 
 ### ブログ
 
-[![欅樹雑記]({{ site.path.img }}galleries/blog@800px.png){: .gallery srcset="{{ site.path.img }}galleries/blog@280px.png 320w, {{ site.path.img }}galleries/blog@560px.png 640w, {{ site.path.img }}galleries/blog@800px.png 800w" sizes="(max-width: 800px) 100vw, 800px"}](https://blog.zelkova.cc/)
+[![コミットできない]({{ site.path.img }}galleries/blog@1200px.png){: .gallery width="50%"}](https://blog.shimataro.me)
 
 主に技術系の内容です。
 たまに全く関係ないことも。
+
+[以前のブログ](https://blog.zelkova.cc)はそのうちこちらに移しますが、分量がそこそこあるのでいつになるかわかりません。
 
 ### サービス
 
 #### [Kyotify](https://kyotify.jp)
 
-[![Kyotify](https://kyotify.jp/ogp.svg)](https://kyotify.jp)
+[![Kyotify](https://kyotify.jp/ogp.svg){: .gallery width="50%"}](https://kyotify.jp)
 
 古の文化と最新の技術の融合（大袈裟）です。
 
